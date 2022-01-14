@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/amik94">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amik94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amik94&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amik94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amik94&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -19,10 +19,9 @@
 ##
 
  <div> 
-   <a href="https://www.youtube.com/channel/UCnn2a7uC2Dm2HxENylFYUYg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-                 badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">    </a> 
+   <a href="https://www.youtube.com/channel/UCnn2a7uC2Dm2HxENylFYUYg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href = "mailto:arminasilva9294@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://br.linkedin.com/in/armine-samvelovna-a49906123/pt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
+ 
   ![Snake animation](https://github.com/amik94/amik94/blob/output/github-contribution-grid-snake.svg)
 </div>
