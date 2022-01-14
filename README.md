@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working as a Software Developer focuesed on front end development.
 - 🌱 I’m currently learning JS and React.
