@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a Software Developer focuesed on front end development.
-- 🌱 Learning JS and React.
+- 🔭 I’m  working as a Software Developer focuesed on front end development.
+- 🌱 Currently studying JS and React.
 
 <div align="center">
   <a href="https://github.com/amik94">
