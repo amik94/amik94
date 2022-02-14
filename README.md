@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m  working as a Software Developer focuesed on front end development.
+- 🔭 I’m working as a Web Developer focuesed on front end development.
 - 🌱 Currently studying JS and React.
 
 <div align="center">
